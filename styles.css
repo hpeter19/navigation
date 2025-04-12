@@ -23,3 +23,22 @@ nav{
     justify-content: space-around;
     width: 30%;
 }
+.nav-links li{
+    list-style: none;
+}
+.nav-links a{
+    color: white;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-size: 13px;
+}
+.burger{
+    display: none;
+}
+.burger div{
+      width: 25px;
+      height: 3px;
+      background-color: white;
+      margin: 5px;
+
+}
